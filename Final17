@@ -25,6 +25,6 @@ def poisk(a, b):
 
 
 if poisk(a, b) == None:
-    print(f"число {b}  не входит в список")
+    print(f"число {b}  за пределами списка")
 
 print(poisk(a, b))
